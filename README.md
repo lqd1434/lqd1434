@@ -5,7 +5,7 @@
 </ul><div>&nbsp;</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lqd1434&count_private=true&show_icons=true&theme=vue-dark&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><div>&nbsp;</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lqd1434&langs_count=6&layout=compact)](https://github.com/lqd1434/github-readme-stats)<div>&nbsp;</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lqd1434&hide=dart&langs_count=6&layout=compact)](https://github.com/lqd1434/github-readme-stats)<div>&nbsp;</div>
 
 
 
