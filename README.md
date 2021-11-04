@@ -3,8 +3,6 @@
   <li>
     <img src="https://img.icons8.com/nolan/100/hardworking--v1.png"/>
     <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/100/000000/external-grow-up-infographic-elements-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/>
-  </li>
-  <li>
     <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/100/000000/external-boy-avatar-with-medical-mask-itim2101-lineal-color-itim2101-5.png"/>
     <img src="https://img.icons8.com/external-itim2101-blue-itim2101/100/000000/external-programmer-male-occupation-avatar-itim2101-blue-itim2101.png"/>
   </li>
@@ -17,7 +15,7 @@
   <img src="https://img.icons8.com/dusk/32/26e07f/javascript.png"/>
   <img src="https://img.icons8.com/color/30/26e07f/typescript.png"/>
   <img src="https://img.icons8.com/color/30/000000/dart.png"/>
-  <img src="https://img.icons8.com/fluency/30/26e07f/node-js.png"/><br/>
+  <img src="https://img.icons8.com/fluency/30/26e07f/node-js.png"/>
   <img src="https://img.icons8.com/office/30/000000/react.png"/>
   <img src="https://img.icons8.com/color/30/26e07f/vue-js.png"/>
   <img src="https://img.icons8.com/color/30/000000/flutter.png"/>
