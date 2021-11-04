@@ -1,9 +1,16 @@
 ### Hi I am lqd1434 👋
 <ul>
-  <li>🐜 &nbsp;我现在正致力于前端学习</li>
-  <li>🧸希望在接下来的两年学业时间里能够不断成长</li>
-</ul><div>&nbsp;</div>
-<h3 align="left">Languages and frame:</h3>
+  <li>
+    <img src="https://img.icons8.com/nolan/100/hardworking--v1.png"/>
+    <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/100/000000/external-grow-up-infographic-elements-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/>
+  </li>
+  <li>
+    <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/100/000000/external-boy-avatar-with-medical-mask-itim2101-lineal-color-itim2101-5.png"/>
+    <img src="https://img.icons8.com/external-itim2101-blue-itim2101/100/000000/external-programmer-male-occupation-avatar-itim2101-blue-itim2101.png"/>
+  </li>
+</ul>
+
+<h3 align="left">Languages and frame:</h3><nobr/>
 <p align="left">
   <img src="https://img.icons8.com/office/30/000000/html-filetype.png"/>
   <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/30/26e07f/external-css-web-seo-prettycons-lineal-color-prettycons.png"/>
@@ -16,8 +23,6 @@
   <img src="https://img.icons8.com/color/30/000000/flutter.png"/>
   <img src="https://img.icons8.com/dusk/30/000000/webpack.png"/>
 </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tencentqq.svg" alt="" height="30" width="40" /></a><font color=red >1434288209</font><br/><br/>
