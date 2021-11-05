@@ -27,8 +27,7 @@
 ### Connect with me:
 
 <p align="left">
-<img src="https://img.icons8.com/color/28/000000/qq.png" align="center"/><font color=red > 1434288209</font><br/><br/>
-<img src="https://img.icons8.com/color/28/000000/weixing.png"/ align="center"><font color=red > lqd15107951710</font><br/>
+<img src="https://img.icons8.com/fluency/28/000000/gmail-new.png" align="center"/>&nbsp; wondfront1314@gmail.com
 </p>
 <h2>Statistics</h2>
 <p>
