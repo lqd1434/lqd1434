@@ -8,7 +8,8 @@
   </li>
 </ul>
 
-<h3 align="left">Languages and frame:</h3><nobr/>
+### Languages and frame:
+
 <p align="left">
   <img src="https://img.icons8.com/office/30/000000/html-filetype.png"/>
   <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/30/26e07f/external-css-web-seo-prettycons-lineal-color-prettycons.png"/>
@@ -21,7 +22,8 @@
   <img src="https://img.icons8.com/color/30/000000/flutter.png"/>
   <img src="https://img.icons8.com/dusk/30/000000/webpack.png"/>
 </p>
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
+
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tencentqq.svg" alt="" height="30" width="40" /></a><font color=red >1434288209</font><br/><br/>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wechat.svg" alt="" height="30" width="40" /></a><font color=red > lqd15107951710</font><br/>
