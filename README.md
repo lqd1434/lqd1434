@@ -1,10 +1,11 @@
-### Hi I am lqd1434 👋
 <ul>
   <li>
-    <img src="https://img.icons8.com/nolan/100/hardworking--v1.png"/>
-    <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/100/000000/external-grow-up-infographic-elements-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/>
-    <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/100/000000/external-boy-avatar-with-medical-mask-itim2101-lineal-color-itim2101-5.png"/>
-    <img src="https://img.icons8.com/external-itim2101-blue-itim2101/100/000000/external-programmer-male-occupation-avatar-itim2101-blue-itim2101.png"/>
+    <p>
+      <img src="https://img.icons8.com/nolan/100/hardworking--v1.png" align="center"/><strong>&nbsp;&nbsp;&nbsp;&nbsp;努力学习</strong>
+    </p>
+  </li>
+  <li>
+    <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/100/000000/external-grow-up-infographic-elements-vitaliy-gorbachev-blue-vitaly-gorbachev.png" align="center"/><strong>&nbsp;&nbsp;&nbsp;&nbsp;天天向上</strong> 
   </li>
 </ul>
 
@@ -26,8 +27,8 @@
 ### Connect with me:
 
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tencentqq.svg" alt="" height="30" width="40" /></a><font color=red >1434288209</font><br/><br/>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wechat.svg" alt="" height="30" width="40" /></a><font color=red > lqd15107951710</font><br/>
+<img src="https://img.icons8.com/color/28/000000/qq.png" align="center"/><font color=red > 1434288209</font><br/><br/>
+<img src="https://img.icons8.com/color/28/000000/weixing.png"/ align="center"><font color=red > lqd15107951710</font><br/>
 </p>
 <h2>Statistics</h2>
 <p>
