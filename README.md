@@ -19,6 +19,7 @@
   <img src="https://img.icons8.com/color/30/000000/flutter.png"/>
   <img src="https://img.icons8.com/dusk/30/000000/webpack.png"/>
 </p>
+<hr>
 
 ### Connect with me:
 
