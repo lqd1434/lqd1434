@@ -1,13 +1,9 @@
-<ul>
-  <li>
-    <p>
-      <img src="https://img.icons8.com/nolan/100/hardworking--v1.png" align="center"/><strong>&nbsp;&nbsp;&nbsp;&nbsp;努力学习</strong>
-    </p>
-  </li>
-  <li>
-    <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/100/000000/external-grow-up-infographic-elements-vitaliy-gorbachev-blue-vitaly-gorbachev.png" align="center"/><strong>&nbsp;&nbsp;&nbsp;&nbsp;天天向上</strong> 
-  </li>
-</ul>
+
+<p align="center"><img src="https://img.icons8.com/nolan/250/hardworking--v1.png" /></p>
+<h1 align="center">努力学习</h1>
+
+<p align="center"><img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/230/000000/external-grow-up-infographic-elements-vitaliy-gorbachev-blue-vitaly-gorbachev.png" align="center"/></p>
+<h1 align="center">天天向上</h1>
 
 ### Languages and frame:
 
