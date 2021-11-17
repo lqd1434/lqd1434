@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/230/000000/external-grow-up-infographic-elements-vitaliy-gorbachev-blue-vitaly-gorbachev.png" align="center"/></p>
 <h1 align="center">天天向上</h1>
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/lqd1434/lqd1434/main/dist/github-contribution-grid-snake.svg)
 ### Languages and frame:
 
 <p align="left">
