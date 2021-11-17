@@ -1,8 +1,6 @@
 name: generate animation
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
 
   # allows to manually run the job at any tim
   workflow_dispatch:
