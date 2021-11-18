@@ -23,7 +23,7 @@
 
 <h2 align="center">贪吃蛇</h2>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/lqd1434/lqd1434/main/dist/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/lqd1434/lqd1434/output/github-contribution-grid-snake.svg)
 
 ### Connect with me:
 
